@@ -1,7 +1,7 @@
 # Chinatown
 
 **Demographics & Statistics(HC2)**  
-Chinatown is zipcodes are 10002 (eastside) and 10013 (westside). In 2000, the total population living in Chinatown was 84,840 people. There were 14,807 children, 56,648 adults, 13,289 eldery people living in Chinatown.
+Chinatown's zipcodes are 10002 (eastside) and 10013 (westside). In 2000, the total population living in Chinatown was 84,840 people. There were 14,807 children, 56,648 adults, 13,289 eldery people living in Chinatown.
 
 The median home value was $957,626 which is higher than the national median of $184,700, and the median rent was $1,454 which is higher than the national median of $949. Interestingly enough 89% of their population rented and 11% owned their home. 
 
@@ -21,17 +21,22 @@ This is a highlighted image of Chinatown within Manhattan.
 
 **AirBnB Stattistics in Chinatown(HC7)**  
 ![5](https://user-images.githubusercontent.com/73083156/99120024-2aff6680-25c8-11eb-9a69-00050fabd7e9.png)  
-Looking specifically at Chinatown, it seems that there is an inverse relationship between reviews per month and price. The lower the price, the higher the reviews per month. The higher the price the lower reviews per month. It is important to note that there are many listings that have 0 reviews per month, which may skew the data. Reflecting this back to our observations in HC2/HC3, this shows that price is a very important factor when picking an airbnb. 
-![6](https://user-images.githubusercontent.com/73083156/99120025-2aff6680-25c8-11eb-9aec-bb42eda27af5.png) 
+	Looking specifically at Chinatown, it seems that there is an inverse relationship between reviews per month and price. The lower the price, the higher the reviews per month. The higher the price the lower reviews per month. It is important to note that there are many listings that have 0 reviews per month, which may skew the data. Reflecting this back to our observations in HC2/HC3, this shows that price is a very important factor when picking an airbnb. 
+
+![6](https://user-images.githubusercontent.com/73083156/99120025-2aff6680-25c8-11eb-9aec-bb42eda27af5.png)   
 	Analyzing the relationship between reviews per month and availability, there seems to be no correlation between the two. The reviews per month seem to be spread evenly throughout the graph, with the only concentration being at 0 availability. This is interesting because I would expect an airbnb with larger availability to have more reviews per month. However, this is not the case. In fact, the listing with the highest amount of reviews per month of (9.39) has an availability of 50 and the listing with the second highest amount of reviews per month of (8.95) has an availability of 240. 
 
 **AirBnB Stattistics in Manhattan(HC8)**  
 ![2](https://user-images.githubusercontent.com/73083156/99120020-2a66d000-25c8-11eb-88b9-1aa5f25a59c6.png)  
-The average price in Manhattan is almost $200 a night, whereas the borough with the second highest average price is Brooklyn, which is about $125 a night. The Bronx has the lowest average nightly price, at about $87 a night. Queens follows closely ahead at $118 a night, and Staten Island takes the middle position at $120 a night.   
+	The average price in Manhattan is almost $200 a night, whereas the borough with the second highest average price is Brooklyn, which is about $125 a night. The Bronx has the lowest average nightly price, at about $87 a night. Queens follows closely ahead at $118 a night, and Staten Island takes the middle position at $120 a night.   
 
 ![3](https://user-images.githubusercontent.com/73083156/99120021-2a66d000-25c8-11eb-97ec-e0d1494e0e62.png)  
-Across all neighborhoods, Tribeca has, by far, the highest average price per night at almost $500 a night. The next highest is Battery Park City at $360 a night, followed by the Financial District at $350 a night. The lowest average price per night positions are taken by Inwood and Washington Heights, which both have an average of $100 a night. This reflects our borough average of $200 a night well, as there is a wide range of prices across all neighborhoods but most range from $150 - $250 a night.   
+	Across all neighborhoods, Tribeca has, by far, the highest average price per night at almost $500 a night. The next highest is Battery Park City at $360 a night, followed by the Financial District at $350 a night. The lowest average price per night positions are taken by Inwood and Washington Heights, which both have an average of $100 a night. This reflects our borough average of $200 a night well, as there is a wide range of prices across all neighborhoods but most range from $150 - $250 a night.   
 
 **Html Price Chinatown Map(HC9)**
 <iframe src="ChinatownAB.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<dl>
+<iframe src="ChinatownAB.htmll" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</dl>
+    
 
