@@ -9,7 +9,7 @@ According to Niche, Chinatown is rated B- in crime and safety. For DNA info rank
 
 
 **Highlighted map (HC6)**  
-
+![](Chinatown/1.png)  
 **AirBnB Stattistics in Chinatown(HC7)**  
 
 **AirBnB Stattistics in Manhattan(HC8)**  
