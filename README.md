@@ -34,7 +34,7 @@ This is a highlighted image of Chinatown within Manhattan.
 	Across all neighborhoods, Tribeca has, by far, the highest average price per night at almost $500 a night. The next highest is Battery Park City at $360 a night, followed by the Financial District at $350 a night. The lowest average price per night positions are taken by Inwood and Washington Heights, which both have an average of $100 a night. This reflects our borough average of $200 a night well, as there is a wide range of prices across all neighborhoods but most range from $150 - $250 a night.   
 
 **Html Price Chinatown Map(HC9)**
-<iframe src="ChinatownAB.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="ChinatownAB.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>  
 <dl>
 <iframe src="ChinatownAB.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </dl>
